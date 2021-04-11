@@ -1,1 +1,3 @@
-# information_retrieval
+# Lenta news retrieval solution
+
+Based on TfIdf transformation.
